@@ -1,0 +1,7 @@
+print('silahkan masukkan dua angka untuk pembagian.')
+try:
+    num1 = float(input('Masukkan angka yang akan dibagi: '))
+    num2 = float(input('Masukkan angka pembagi: '))
+    print('{0} dibagi {1} = {2}'.format(num1, num2, num1 / num2))
+except ZeroDivisionError:
+    print('Error: Tidak dapat membagi dengan nol.')2
