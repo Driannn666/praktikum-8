@@ -61,6 +61,3 @@ percobaan()
 
 ---
 
-## Catatan
-
-Program ini cocok untuk pemula yang sedang belajar **error handling di Python**.
